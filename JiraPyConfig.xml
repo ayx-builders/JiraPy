@@ -10,7 +10,7 @@
     <MetaInfo>
       <Name>JiraPy</Name>
       <Description>A custom Python tool for importing Jira data</Description>
-      <CategoryName>Laboratory</CategoryName>
+      <CategoryName>ayx_builders</CategoryName>
       <SearchTags>python, sdk, input, jira</SearchTags>
       <ToolVersion>1.00</ToolVersion>
       <Author>tlarsendataguy</Author>
